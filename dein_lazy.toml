@@ -1,0 +1,7 @@
+[[plugins]]
+repo = 'deoplete-plugins/deoplete-jedi'
+on_ft = 'python'
+hook_add = """
+let g:deoplete#sources#jedi#python_path = system("witch python")[:-2]
+"""
+

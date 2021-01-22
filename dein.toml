@@ -1,0 +1,21 @@
+[[plugins]]
+repo = "Shougo/defx.nvim"
+depends = ["defx-git", "vim-hug-neovim-rpc"]
+
+[[plugins]]
+repo ="kristijanhusak/defx-git"
+
+[[plugins]]
+repo = 'roxma/vim-hug-neovim-rpc'
+
+[[plugins]]
+repo = 'kristijanhusak/defx-icons'
+
+[[plugins]]
+repo = 'python-mode/python-mode'
+
+[[plugins]]
+repo = 'pangloss/vim-javascript'
+
+[[plugins]]
+repo = "airblade/vim-gitgutter"
