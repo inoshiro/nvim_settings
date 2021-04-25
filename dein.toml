@@ -19,3 +19,9 @@ repo = 'pangloss/vim-javascript'
 
 [[plugins]]
 repo = "airblade/vim-gitgutter"
+
+[[plugins]]
+repo = "gu-fan/riv.vim"
+
+[[plugins]]
+repo = "mxw/vim-jsx"
